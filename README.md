@@ -49,8 +49,8 @@
 
 ## 🤝 Conectemos
 
+
 - 📧 Email: [jucenaga.97@gmail.com](mailto:jucenaga.97@gmail.com)
-- 💼 LinkedIn: *(si tienes, dime y lo añado)*
 - 🧑‍💻 GitHub: [naranjo97](https://github.com/naranjo97)
 
 ---
